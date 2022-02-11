@@ -13,8 +13,9 @@ const config = {
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "Atlas-Foundation", // Usually your GitHub org/user name.
+  projectName: "Atlas-Foundation.github.io", // Usually your repo name.
+  trailingSlash: false,
 
   presets: [
     [
